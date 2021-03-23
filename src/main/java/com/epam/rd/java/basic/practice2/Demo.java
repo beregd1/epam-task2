@@ -7,5 +7,7 @@ public class Demo {
         ArrayImpl.main(new String[]{});
         System.out.println("List: ");
         ListImpl.main(new String[]{});
+        System.out.println("Queue: ");
+        QueueImpl.main(new String[]{});
     }
 }
