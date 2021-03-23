@@ -9,5 +9,7 @@ public class Demo {
         ListImpl.main(new String[]{});
         System.out.println("Queue: ");
         QueueImpl.main(new String[]{});
+        System.out.println("Stack: ");
+        StackImpl.main(new String[]{});
     }
 }
